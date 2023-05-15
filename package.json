@@ -1,0 +1,21 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "Mirjabbar Badalov Group: Full Stack 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.29.1",
+    "eslint": "^8.40.0",
+    "gulp": "^4.0.2"
+  }
+}
