@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Mirjabbar Badalov Group: Full Stack 1",
   "main": "app.js",
+  "url": "https://github.com/mirjabbarbadalov/Project-x.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
@@ -18,8 +19,4 @@
     "eslint": "^8.40.0",
     "gulp": "^4.0.2"
   }
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/mirjabbarbadalov/Project-x"
-},
 }
